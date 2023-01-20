@@ -1,0 +1,3677 @@
+[
+	{
+		"dtcode11": "001",
+		"dtname": "Kupwara",
+		"pc11_district_id": "Kupwara"
+	},
+	{
+		"dtcode11": "009",
+		"dtname": "Bandipore",
+		"pc11_district_id": "Bandipore"
+	},
+	{
+		"dtcode11": "008",
+		"dtname": "Baramula",
+		"pc11_district_id": "Baramula"
+	},
+	{
+		"dtcode11": "011",
+		"dtname": "Ganderbal",
+		"pc11_district_id": "Ganderbal"
+	},
+	{
+		"dtcode11": "014",
+		"dtname": "Anantnag",
+		"pc11_district_id": "Anantnag"
+	},
+	{
+		"dtcode11": "018",
+		"dtname": "Kishtwar",
+		"pc11_district_id": "Kishtwar"
+	},
+	{
+		"dtcode11": "010",
+		"dtname": "Srinagar",
+		"pc11_district_id": "Srinagar"
+	},
+	{
+		"dtcode11": "002",
+		"dtname": "Badgam",
+		"pc11_district_id": "Badgam"
+	},
+	{
+		"dtcode11": "012",
+		"dtname": "Pulwama",
+		"pc11_district_id": "Pulwama"
+	},
+	{
+		"dtcode11": "005",
+		"dtname": "Punch",
+		"pc11_district_id": "Punch"
+	},
+	{
+		"dtcode11": "013",
+		"dtname": "Shupiyan",
+		"pc11_district_id": "Shupiyan"
+	},
+	{
+		"dtcode11": "015",
+		"dtname": "Kulgam",
+		"pc11_district_id": "Kulgam"
+	},
+	{
+		"dtcode11": "006",
+		"dtname": "Rajouri",
+		"pc11_district_id": "Rajouri"
+	},
+	{
+		"dtcode11": "017",
+		"dtname": "Ramban",
+		"pc11_district_id": "Ramban"
+	},
+	{
+		"dtcode11": "020",
+		"dtname": "Reasi",
+		"pc11_district_id": "Reasi"
+	},
+	{
+		"dtcode11": "016",
+		"dtname": "Doda",
+		"pc11_district_id": "Doda"
+	},
+	{
+		"dtcode11": "021",
+		"dtname": "Jammu",
+		"pc11_district_id": "Jammu"
+	},
+	{
+		"dtcode11": "007",
+		"dtname": "Kathua",
+		"pc11_district_id": "Kathua"
+	},
+	{
+		"dtcode11": "019",
+		"dtname": "Udhampur",
+		"pc11_district_id": "Udhampur"
+	},
+	{
+		"dtcode11": "022",
+		"dtname": "Samba",
+		"pc11_district_id": "Samba"
+	},
+	{
+		"dtcode11": "992",
+		"dtname": "Muzaffarabad",
+		"pc11_district_id": "Muzaffarabad"
+	},
+	{
+		"dtcode11": "991",
+		"dtname": "Mirpur",
+		"pc11_district_id": "Mirpur"
+	},
+	{
+		"dtcode11": "025",
+		"dtname": "Lahul & Spiti",
+		"pc11_district_id": "Lahul & Spiti"
+	},
+	{
+		"dtcode11": "023",
+		"dtname": "Chamba",
+		"pc11_district_id": "Chamba"
+	},
+	{
+		"dtcode11": "024",
+		"dtname": "Kangra",
+		"pc11_district_id": "Kangra"
+	},
+	{
+		"dtcode11": "026",
+		"dtname": "Kullu",
+		"pc11_district_id": "Kullu"
+	},
+	{
+		"dtcode11": "027",
+		"dtname": "Mandi",
+		"pc11_district_id": "Mandi"
+	},
+	{
+		"dtcode11": "034",
+		"dtname": "Kinnaur",
+		"pc11_district_id": "Kinnaur"
+	},
+	{
+		"dtcode11": "029",
+		"dtname": "Una",
+		"pc11_district_id": "Una"
+	},
+	{
+		"dtcode11": "033",
+		"dtname": "Shimla",
+		"pc11_district_id": "Shimla"
+	},
+	{
+		"dtcode11": "031",
+		"dtname": "Solan",
+		"pc11_district_id": "Solan"
+	},
+	{
+		"dtcode11": "032",
+		"dtname": "Sirmaur",
+		"pc11_district_id": "Sirmaur"
+	},
+	{
+		"dtcode11": "028",
+		"dtname": "Hamirpur",
+		"pc11_district_id": "Hamirpur"
+	},
+	{
+		"dtcode11": "030",
+		"dtname": "Bilaspur",
+		"pc11_district_id": "Bilaspur"
+	},
+	{
+		"dtcode11": "035",
+		"dtname": "Gurdaspur",
+		"pc11_district_id": "Gurdaspur"
+	},
+	{
+		"dtcode11": "038",
+		"dtname": "Hoshiarpur",
+		"pc11_district_id": "Hoshiarpur"
+	},
+	{
+		"dtcode11": "049",
+		"dtname": "Amritsar",
+		"pc11_district_id": "Amritsar"
+	},
+	{
+		"dtcode11": "037",
+		"dtname": "Jalandhar",
+		"pc11_district_id": "Jalandhar"
+	},
+	{
+		"dtcode11": "050",
+		"dtname": "Tarn Taran",
+		"pc11_district_id": "Tarn Taran"
+	},
+	{
+		"dtcode11": "051",
+		"dtname": "Rupnagar",
+		"pc11_district_id": "Rupnagar"
+	},
+	{
+		"dtcode11": "039",
+		"dtname": "Shahid Bhagat Singh Nagar",
+		"pc11_district_id": "Shahid Bhagat Singh Nagar"
+	},
+	{
+		"dtcode11": "701",
+		"dtname": "Fazilka",
+		"pc11_district_id": "Fazilka"
+	},
+	{
+		"dtcode11": "042",
+		"dtname": "Moga",
+		"pc11_district_id": "Moga"
+	},
+	{
+		"dtcode11": "041",
+		"dtname": "Ludhiana",
+		"pc11_district_id": "Ludhiana"
+	},
+	{
+		"dtcode11": "052",
+		"dtname": "Sahibzada Ajit Singh Nag*",
+		"pc11_district_id": "Sahibzada Ajit Singh Nag*"
+	},
+	{
+		"dtcode11": "045",
+		"dtname": "Faridkot",
+		"pc11_district_id": "Faridkot"
+	},
+	{
+		"dtcode11": "040",
+		"dtname": "Fatehgarh Sahib",
+		"pc11_district_id": "Fatehgarh Sahib"
+	},
+	{
+		"dtcode11": "044",
+		"dtname": "Sri Muktsar Sahib",
+		"pc11_district_id": "Sri Muktsar Sahib"
+	},
+	{
+		"dtcode11": "053",
+		"dtname": "Sangrur",
+		"pc11_district_id": "Sangrur"
+	},
+	{
+		"dtcode11": "054",
+		"dtname": "Barnala",
+		"pc11_district_id": "Barnala"
+	},
+	{
+		"dtcode11": "046",
+		"dtname": "Bathinda",
+		"pc11_district_id": "Bathinda"
+	},
+	{
+		"dtcode11": "048",
+		"dtname": "Patiala",
+		"pc11_district_id": "Patiala"
+	},
+	{
+		"dtcode11": "047",
+		"dtname": "Mansa",
+		"pc11_district_id": "Mansa"
+	},
+	{
+		"dtcode11": "043",
+		"dtname": "Firozpur",
+		"pc11_district_id": "Firozpur"
+	},
+	{
+		"dtcode11": "773",
+		"dtname": "Pathankot",
+		"pc11_district_id": "Pathankot"
+	},
+	{
+		"dtcode11": "036",
+		"dtname": "Kapurthala",
+		"pc11_district_id": "Kapurthala"
+	},
+	{
+		"dtcode11": "055",
+		"dtname": "Chandigarh",
+		"pc11_district_id": "Chandigarh"
+	},
+	{
+		"dtcode11": "056",
+		"dtname": "Uttarkashi",
+		"pc11_district_id": "Uttarkashi"
+	},
+	{
+		"dtcode11": "057",
+		"dtname": "Chamoli",
+		"pc11_district_id": "Chamoli"
+	},
+	{
+		"dtcode11": "060",
+		"dtname": "Dehradun",
+		"pc11_district_id": "Dehradun"
+	},
+	{
+		"dtcode11": "059",
+		"dtname": "Tehri Garhwal",
+		"pc11_district_id": "Tehri Garhwal"
+	},
+	{
+		"dtcode11": "058",
+		"dtname": "Rudraprayag",
+		"pc11_district_id": "Rudraprayag"
+	},
+	{
+		"dtcode11": "062",
+		"dtname": "Pithoragarh",
+		"pc11_district_id": "Pithoragarh"
+	},
+	{
+		"dtcode11": "063",
+		"dtname": "Bageshwar",
+		"pc11_district_id": "Bageshwar"
+	},
+	{
+		"dtcode11": "068",
+		"dtname": "Hardwar",
+		"pc11_district_id": "Hardwar"
+	},
+	{
+		"dtcode11": "061",
+		"dtname": "Garhwal",
+		"pc11_district_id": "Garhwal"
+	},
+	{
+		"dtcode11": "064",
+		"dtname": "Almora\n",
+		"pc11_district_id": "Almora\n"
+	},
+	{
+		"dtcode11": "066",
+		"dtname": "Nainital",
+		"pc11_district_id": "Nainital"
+	},
+	{
+		"dtcode11": "065",
+		"dtname": "Champawat",
+		"pc11_district_id": "Champawat"
+	},
+	{
+		"dtcode11": "067",
+		"dtname": "Udham Singh Nagar",
+		"pc11_district_id": "Udham Singh Nagar"
+	},
+	{
+		"dtcode11": "083",
+		"dtname": "Jhajjar",
+		"pc11_district_id": "Jhajjar"
+	},
+	{
+		"dtcode11": "086",
+		"dtname": "Gurugram",
+		"pc11_district_id": "Gurugram"
+	},
+	{
+		"dtcode11": "088",
+		"dtname": "Faridabad",
+		"pc11_district_id": "Faridabad"
+	},
+	{
+		"dtcode11": "084",
+		"dtname": "Mahendragarh",
+		"pc11_district_id": "Mahendragarh"
+	},
+	{
+		"dtcode11": "085",
+		"dtname": "Rewari",
+		"pc11_district_id": "Rewari"
+	},
+	{
+		"dtcode11": "087",
+		"dtname": "Nuh",
+		"pc11_district_id": "Nuh"
+	},
+	{
+		"dtcode11": "089",
+		"dtname": "Palwal",
+		"pc11_district_id": "Palwal"
+	},
+	{
+		"dtcode11": "765",
+		"dtname": "Charki Dadri",
+		"pc11_district_id": "Charki Dadri"
+	},
+	{
+		"dtcode11": "071",
+		"dtname": "Yamunanagar",
+		"pc11_district_id": "Yamunanagar"
+	},
+	{
+		"dtcode11": "072",
+		"dtname": "Kurukshetra",
+		"pc11_district_id": "Kurukshetra"
+	},
+	{
+		"dtcode11": "073",
+		"dtname": "Kaithal",
+		"pc11_district_id": "Kaithal"
+	},
+	{
+		"dtcode11": "079",
+		"dtname": "Sirsa",
+		"pc11_district_id": "Sirsa"
+	},
+	{
+		"dtcode11": "074",
+		"dtname": "Karnal",
+		"pc11_district_id": "Karnal"
+	},
+	{
+		"dtcode11": "077",
+		"dtname": "Jind",
+		"pc11_district_id": "Jind"
+	},
+	{
+		"dtcode11": "078",
+		"dtname": "Fatehabad",
+		"pc11_district_id": "Fatehabad"
+	},
+	{
+		"dtcode11": "080",
+		"dtname": "Hisar",
+		"pc11_district_id": "Hisar"
+	},
+	{
+		"dtcode11": "075",
+		"dtname": "Panipat",
+		"pc11_district_id": "Panipat"
+	},
+	{
+		"dtcode11": "076",
+		"dtname": "Sonipat",
+		"pc11_district_id": "Sonipat"
+	},
+	{
+		"dtcode11": "081",
+		"dtname": "Bhiwani",
+		"pc11_district_id": "Bhiwani"
+	},
+	{
+		"dtcode11": "082",
+		"dtname": "Rohtak",
+		"pc11_district_id": "Rohtak"
+	},
+	{
+		"dtcode11": "069",
+		"dtname": "Panchkula",
+		"pc11_district_id": "Panchkula"
+	},
+	{
+		"dtcode11": "070",
+		"dtname": "Ambala",
+		"pc11_district_id": "Ambala"
+	},
+	{
+		"dtcode11": "091",
+		"dtname": "North",
+		"pc11_district_id": "North"
+	},
+	{
+		"dtcode11": "092",
+		"dtname": "North East",
+		"pc11_district_id": "North East"
+	},
+	{
+		"dtcode11": "096",
+		"dtname": "West",
+		"pc11_district_id": "West"
+	},
+	{
+		"dtcode11": "093",
+		"dtname": "East",
+		"pc11_district_id": "East"
+	},
+	{
+		"dtcode11": "097",
+		"dtname": "South West",
+		"pc11_district_id": "South West"
+	},
+	{
+		"dtcode11": "095",
+		"dtname": "Central",
+		"pc11_district_id": "Central"
+	},
+	{
+		"dtcode11": "094",
+		"dtname": "New Delhi",
+		"pc11_district_id": "New Delhi"
+	},
+	{
+		"dtcode11": "098",
+		"dtname": "South",
+		"pc11_district_id": "South"
+	},
+	{
+		"dtcode11": "702",
+		"dtname": "Shahdara",
+		"pc11_district_id": "Shahdara"
+	},
+	{
+		"dtcode11": "703",
+		"dtname": "South East",
+		"pc11_district_id": "South East"
+	},
+	{
+		"dtcode11": "090",
+		"dtname": "North West",
+		"pc11_district_id": "North West"
+	},
+	{
+		"dtcode11": "102",
+		"dtname": "Churu",
+		"pc11_district_id": "Churu"
+	},
+	{
+		"dtcode11": "103",
+		"dtname": "Jhunjhunun",
+		"pc11_district_id": "Jhunjhunun"
+	},
+	{
+		"dtcode11": "114",
+		"dtname": "Jaisalmer",
+		"pc11_district_id": "Jaisalmer"
+	},
+	{
+		"dtcode11": "111",
+		"dtname": "Sikar",
+		"pc11_district_id": "Sikar"
+	},
+	{
+		"dtcode11": "104",
+		"dtname": "Alwar",
+		"pc11_district_id": "Alwar"
+	},
+	{
+		"dtcode11": "110",
+		"dtname": "Jaipur",
+		"pc11_district_id": "Jaipur"
+	},
+	{
+		"dtcode11": "113",
+		"dtname": "Jodhpur",
+		"pc11_district_id": "Jodhpur"
+	},
+	{
+		"dtcode11": "105",
+		"dtname": "Bharatpur",
+		"pc11_district_id": "Bharatpur"
+	},
+	{
+		"dtcode11": "112",
+		"dtname": "Nagaur",
+		"pc11_district_id": "Nagaur"
+	},
+	{
+		"dtcode11": "109",
+		"dtname": "Dausa",
+		"pc11_district_id": "Dausa"
+	},
+	{
+		"dtcode11": "107",
+		"dtname": "Karauli",
+		"pc11_district_id": "Karauli"
+	},
+	{
+		"dtcode11": "106",
+		"dtname": "Dhaulpur",
+		"pc11_district_id": "Dhaulpur"
+	},
+	{
+		"dtcode11": "115",
+		"dtname": "Barmer",
+		"pc11_district_id": "Barmer"
+	},
+	{
+		"dtcode11": "108",
+		"dtname": "Sawai Madhopur",
+		"pc11_district_id": "Sawai Madhopur"
+	},
+	{
+		"dtcode11": "120",
+		"dtname": "Tonk",
+		"pc11_district_id": "Tonk"
+	},
+	{
+		"dtcode11": "118",
+		"dtname": "Pali",
+		"pc11_district_id": "Pali"
+	},
+	{
+		"dtcode11": "122",
+		"dtname": "Bhilwara",
+		"pc11_district_id": "Bhilwara"
+	},
+	{
+		"dtcode11": "116",
+		"dtname": "Jalor",
+		"pc11_district_id": "Jalor"
+	},
+	{
+		"dtcode11": "121",
+		"dtname": "Bundi",
+		"pc11_district_id": "Bundi"
+	},
+	{
+		"dtcode11": "127",
+		"dtname": "Kota",
+		"pc11_district_id": "Kota"
+	},
+	{
+		"dtcode11": "117",
+		"dtname": "Sirohi",
+		"pc11_district_id": "Sirohi"
+	},
+	{
+		"dtcode11": "128",
+		"dtname": "Baran",
+		"pc11_district_id": "Baran"
+	},
+	{
+		"dtcode11": "130",
+		"dtname": "Udaipur",
+		"pc11_district_id": "Udaipur"
+	},
+	{
+		"dtcode11": "129",
+		"dtname": "Jhalawar",
+		"pc11_district_id": "Jhalawar"
+	},
+	{
+		"dtcode11": "124",
+		"dtname": "Dungarpur",
+		"pc11_district_id": "Dungarpur"
+	},
+	{
+		"dtcode11": "125",
+		"dtname": "Banswara",
+		"pc11_district_id": "Banswara"
+	},
+	{
+		"dtcode11": "119",
+		"dtname": "Ajmer",
+		"pc11_district_id": "Ajmer"
+	},
+	{
+		"dtcode11": "123",
+		"dtname": "Rajsamand",
+		"pc11_district_id": "Rajsamand"
+	},
+	{
+		"dtcode11": "126",
+		"dtname": "Chittaurgarh",
+		"pc11_district_id": "Chittaurgarh"
+	},
+	{
+		"dtcode11": "099",
+		"dtname": "Ganganagar",
+		"pc11_district_id": "Ganganagar"
+	},
+	{
+		"dtcode11": "100",
+		"dtname": "Hanumangarh",
+		"pc11_district_id": "Hanumangarh"
+	},
+	{
+		"dtcode11": "101",
+		"dtname": "Bikaner",
+		"pc11_district_id": "Bikaner"
+	},
+	{
+		"dtcode11": "131",
+		"dtname": "Pratapgarh",
+		"pc11_district_id": "Pratapgarh"
+	},
+	{
+		"dtcode11": "137",
+		"dtname": "Amroha",
+		"pc11_district_id": "Amroha"
+	},
+	{
+		"dtcode11": "705",
+		"dtname": "Hapur",
+		"pc11_district_id": "Hapur"
+	},
+	{
+		"dtcode11": "150",
+		"dtname": "Bareilly",
+		"pc11_district_id": "Bareilly"
+	},
+	{
+		"dtcode11": "151",
+		"dtname": "Pilibhit",
+		"pc11_district_id": "Pilibhit"
+	},
+	{
+		"dtcode11": "142",
+		"dtname": "Bulandshahr",
+		"pc11_district_id": "Bulandshahr"
+	},
+	{
+		"dtcode11": "141",
+		"dtname": "Gautam Buddha Nagar",
+		"pc11_district_id": "Gautam Buddha Nagar"
+	},
+	{
+		"dtcode11": "153",
+		"dtname": "Kheri",
+		"pc11_district_id": "Kheri"
+	},
+	{
+		"dtcode11": "149",
+		"dtname": "Budaun",
+		"pc11_district_id": "Budaun"
+	},
+	{
+		"dtcode11": "180",
+		"dtname": "Bahraich",
+		"pc11_district_id": "Bahraich"
+	},
+	{
+		"dtcode11": "152",
+		"dtname": "Shahjahanpur",
+		"pc11_district_id": "Shahjahanpur"
+	},
+	{
+		"dtcode11": "143",
+		"dtname": "Aligarh",
+		"pc11_district_id": "Aligarh"
+	},
+	{
+		"dtcode11": "202",
+		"dtname": "Kasganj",
+		"pc11_district_id": "Kasganj"
+	},
+	{
+		"dtcode11": "145",
+		"dtname": "Mathura",
+		"pc11_district_id": "Mathura"
+	},
+	{
+		"dtcode11": "181",
+		"dtname": "Shrawasti",
+		"pc11_district_id": "Shrawasti"
+	},
+	{
+		"dtcode11": "154",
+		"dtname": "Sitapur",
+		"pc11_district_id": "Sitapur"
+	},
+	{
+		"dtcode11": "144",
+		"dtname": "Hathras",
+		"pc11_district_id": "Hathras"
+	},
+	{
+		"dtcode11": "201",
+		"dtname": "Etah",
+		"pc11_district_id": "Etah"
+	},
+	{
+		"dtcode11": "155",
+		"dtname": "Hardoi",
+		"pc11_district_id": "Hardoi"
+	},
+	{
+		"dtcode11": "159",
+		"dtname": "Farrukhabad",
+		"pc11_district_id": "Farrukhabad"
+	},
+	{
+		"dtcode11": "147",
+		"dtname": "Firozabad",
+		"pc11_district_id": "Firozabad"
+	},
+	{
+		"dtcode11": "184",
+		"dtname": "Siddharthnagar",
+		"pc11_district_id": "Siddharthnagar"
+	},
+	{
+		"dtcode11": "148",
+		"dtname": "Mainpuri",
+		"pc11_district_id": "Mainpuri"
+	},
+	{
+		"dtcode11": "187",
+		"dtname": "Mahrajganj",
+		"pc11_district_id": "Mahrajganj"
+	},
+	{
+		"dtcode11": "146",
+		"dtname": "Agra",
+		"pc11_district_id": "Agra"
+	},
+	{
+		"dtcode11": "183",
+		"dtname": "Gonda",
+		"pc11_district_id": "Gonda"
+	},
+	{
+		"dtcode11": "176",
+		"dtname": "Bara Banki",
+		"pc11_district_id": "Bara Banki"
+	},
+	{
+		"dtcode11": "189",
+		"dtname": "Kushinagar",
+		"pc11_district_id": "Kushinagar"
+	},
+	{
+		"dtcode11": "160",
+		"dtname": "Kannauj",
+		"pc11_district_id": "Kannauj"
+	},
+	{
+		"dtcode11": "157",
+		"dtname": "Lucknow",
+		"pc11_district_id": "Lucknow"
+	},
+	{
+		"dtcode11": "185",
+		"dtname": "Basti",
+		"pc11_district_id": "Basti"
+	},
+	{
+		"dtcode11": "188",
+		"dtname": "Gorakhpur",
+		"pc11_district_id": "Gorakhpur"
+	},
+	{
+		"dtcode11": "186",
+		"dtname": "Sant Kabir Nagar",
+		"pc11_district_id": "Sant Kabir Nagar"
+	},
+	{
+		"dtcode11": "156",
+		"dtname": "Unnao",
+		"pc11_district_id": "Unnao"
+	},
+	{
+		"dtcode11": "161",
+		"dtname": "Etawah",
+		"pc11_district_id": "Etawah"
+	},
+	{
+		"dtcode11": "164",
+		"dtname": "Kanpur Nagar",
+		"pc11_district_id": "Kanpur Nagar"
+	},
+	{
+		"dtcode11": "162",
+		"dtname": "Auraiya",
+		"pc11_district_id": "Auraiya"
+	},
+	{
+		"dtcode11": "177",
+		"dtname": "Faizabad",
+		"pc11_district_id": "Faizabad"
+	},
+	{
+		"dtcode11": "163",
+		"dtname": "Kanpur Dehat",
+		"pc11_district_id": "Kanpur Dehat"
+	},
+	{
+		"dtcode11": "190",
+		"dtname": "Deoria",
+		"pc11_district_id": "Deoria"
+	},
+	{
+		"dtcode11": "179",
+		"dtname": "Sultanpur",
+		"pc11_district_id": "Sultanpur"
+	},
+	{
+		"dtcode11": "178",
+		"dtname": "Ambedkar Nagar",
+		"pc11_district_id": "Ambedkar Nagar"
+	},
+	{
+		"dtcode11": "158",
+		"dtname": "Rae Bareli",
+		"pc11_district_id": "Rae Bareli"
+	},
+	{
+		"dtcode11": "165",
+		"dtname": "Jalaun",
+		"pc11_district_id": "Jalaun"
+	},
+	{
+		"dtcode11": "191",
+		"dtname": "Azamgarh",
+		"pc11_district_id": "Azamgarh"
+	},
+	{
+		"dtcode11": "192",
+		"dtname": "Mau",
+		"pc11_district_id": "Mau"
+	},
+	{
+		"dtcode11": "172",
+		"dtname": "Fatehpur",
+		"pc11_district_id": "Fatehpur"
+	},
+	{
+		"dtcode11": "193",
+		"dtname": "Ballia",
+		"pc11_district_id": "Ballia"
+	},
+	{
+		"dtcode11": "194",
+		"dtname": "Jaunpur",
+		"pc11_district_id": "Jaunpur"
+	},
+	{
+		"dtcode11": "166",
+		"dtname": "Jhansi",
+		"pc11_district_id": "Jhansi"
+	},
+	{
+		"dtcode11": "170",
+		"dtname": "Banda",
+		"pc11_district_id": "Banda"
+	},
+	{
+		"dtcode11": "195",
+		"dtname": "Ghazipur",
+		"pc11_district_id": "Ghazipur"
+	},
+	{
+		"dtcode11": "174",
+		"dtname": "Kaushambi",
+		"pc11_district_id": "Kaushambi"
+	},
+	{
+		"dtcode11": "175",
+		"dtname": "Prayagraj",
+		"pc11_district_id": "Prayagraj"
+	},
+	{
+		"dtcode11": "197",
+		"dtname": "Varanasi",
+		"pc11_district_id": "Varanasi"
+	},
+	{
+		"dtcode11": "171",
+		"dtname": "Chitrakoot",
+		"pc11_district_id": "Chitrakoot"
+	},
+	{
+		"dtcode11": "196",
+		"dtname": "Chandauli",
+		"pc11_district_id": "Chandauli"
+	},
+	{
+		"dtcode11": "198",
+		"dtname": "Bhadohi",
+		"pc11_district_id": "Bhadohi"
+	},
+	{
+		"dtcode11": "199",
+		"dtname": "Mirzapur",
+		"pc11_district_id": "Mirzapur"
+	},
+	{
+		"dtcode11": "167",
+		"dtname": "Lalitpur",
+		"pc11_district_id": "Lalitpur"
+	},
+	{
+		"dtcode11": "200",
+		"dtname": "Sonbhadra",
+		"pc11_district_id": "Sonbhadra"
+	},
+	{
+		"dtcode11": "706",
+		"dtname": "Amethi",
+		"pc11_district_id": "Amethi"
+	},
+	{
+		"dtcode11": "140",
+		"dtname": "Ghaziabad",
+		"pc11_district_id": "Ghaziabad"
+	},
+	{
+		"dtcode11": "754",
+		"dtname": "Sambhal",
+		"pc11_district_id": "Sambhal"
+	},
+	{
+		"dtcode11": "169",
+		"dtname": "Mahoba",
+		"pc11_district_id": "Mahoba"
+	},
+	{
+		"dtcode11": "132",
+		"dtname": "Saharanpur",
+		"pc11_district_id": "Saharanpur"
+	},
+	{
+		"dtcode11": "134",
+		"dtname": "Bijnor",
+		"pc11_district_id": "Bijnor"
+	},
+	{
+		"dtcode11": "133",
+		"dtname": "Muzaffarnagar",
+		"pc11_district_id": "Muzaffarnagar"
+	},
+	{
+		"dtcode11": "139",
+		"dtname": "Baghpat",
+		"pc11_district_id": "Baghpat"
+	},
+	{
+		"dtcode11": "138",
+		"dtname": "Meerut",
+		"pc11_district_id": "Meerut"
+	},
+	{
+		"dtcode11": "135",
+		"dtname": "Moradabad",
+		"pc11_district_id": "Moradabad"
+	},
+	{
+		"dtcode11": "136",
+		"dtname": "Rampur",
+		"pc11_district_id": "Rampur"
+	},
+	{
+		"dtcode11": "704",
+		"dtname": "Shamli",
+		"pc11_district_id": "Shamli"
+	},
+	{
+		"dtcode11": "182",
+		"dtname": "Balrampur",
+		"pc11_district_id": "Balrampur"
+	},
+	{
+		"dtcode11": "168",
+		"dtname": "Hamirpur",
+		"pc11_district_id": "Hamirpur"
+	},
+	{
+		"dtcode11": "173",
+		"dtname": "Pratapgarh",
+		"pc11_district_id": "Pratapgarh"
+	},
+	{
+		"dtcode11": "203",
+		"dtname": "Pashchim Champaran",
+		"pc11_district_id": "Pashchim Champaran"
+	},
+	{
+		"dtcode11": "204",
+		"dtname": "Purba Champaran",
+		"pc11_district_id": "Purba Champaran"
+	},
+	{
+		"dtcode11": "206",
+		"dtname": "Sitamarhi",
+		"pc11_district_id": "Sitamarhi"
+	},
+	{
+		"dtcode11": "205",
+		"dtname": "Sheohar",
+		"pc11_district_id": "Sheohar"
+	},
+	{
+		"dtcode11": "217",
+		"dtname": "Gopalganj",
+		"pc11_district_id": "Gopalganj"
+	},
+	{
+		"dtcode11": "221",
+		"dtname": "Samastipur",
+		"pc11_district_id": "Samastipur"
+	},
+	{
+		"dtcode11": "212",
+		"dtname": "Katihar",
+		"pc11_district_id": "Katihar"
+	},
+	{
+		"dtcode11": "223",
+		"dtname": "Khagaria",
+		"pc11_district_id": "Khagaria"
+	},
+	{
+		"dtcode11": "231",
+		"dtname": "Bhojpur",
+		"pc11_district_id": "Bhojpur"
+	},
+	{
+		"dtcode11": "232",
+		"dtname": "Buxar",
+		"pc11_district_id": "Buxar"
+	},
+	{
+		"dtcode11": "215",
+		"dtname": "Darbhanga",
+		"pc11_district_id": "Darbhanga"
+	},
+	{
+		"dtcode11": "214",
+		"dtname": "Saharsa",
+		"pc11_district_id": "Saharsa"
+	},
+	{
+		"dtcode11": "233",
+		"dtname": "Kaimur (bhabua)",
+		"pc11_district_id": "Kaimur (bhabua)"
+	},
+	{
+		"dtcode11": "234",
+		"dtname": "Rohtas",
+		"pc11_district_id": "Rohtas"
+	},
+	{
+		"dtcode11": "238",
+		"dtname": "Jamui",
+		"pc11_district_id": "Jamui"
+	},
+	{
+		"dtcode11": "225",
+		"dtname": "Banka",
+		"pc11_district_id": "Banka"
+	},
+	{
+		"dtcode11": "237",
+		"dtname": "Nawada",
+		"pc11_district_id": "Nawada"
+	},
+	{
+		"dtcode11": "236",
+		"dtname": "Gaya",
+		"pc11_district_id": "Gaya"
+	},
+	{
+		"dtcode11": "226",
+		"dtname": "Munger",
+		"pc11_district_id": "Munger"
+	},
+	{
+		"dtcode11": "220",
+		"dtname": "Vaishali",
+		"pc11_district_id": "Vaishali"
+	},
+	{
+		"dtcode11": "222",
+		"dtname": "Begusarai",
+		"pc11_district_id": "Begusarai"
+	},
+	{
+		"dtcode11": "224",
+		"dtname": "Bhagalpur",
+		"pc11_district_id": "Bhagalpur"
+	},
+	{
+		"dtcode11": "227",
+		"dtname": "Lakhisarai",
+		"pc11_district_id": "Lakhisarai"
+	},
+	{
+		"dtcode11": "228",
+		"dtname": "Sheikhpura",
+		"pc11_district_id": "Sheikhpura"
+	},
+	{
+		"dtcode11": "240",
+		"dtname": "Arwal",
+		"pc11_district_id": "Arwal"
+	},
+	{
+		"dtcode11": "239",
+		"dtname": "Jehanabad",
+		"pc11_district_id": "Jehanabad"
+	},
+	{
+		"dtcode11": "229",
+		"dtname": "Nalanda",
+		"pc11_district_id": "Nalanda"
+	},
+	{
+		"dtcode11": "230",
+		"dtname": "Patna",
+		"pc11_district_id": "Patna"
+	},
+	{
+		"dtcode11": "219",
+		"dtname": "Saran",
+		"pc11_district_id": "Saran"
+	},
+	{
+		"dtcode11": "218",
+		"dtname": "Siwan",
+		"pc11_district_id": "Siwan"
+	},
+	{
+		"dtcode11": "216",
+		"dtname": "Muzaffarpur",
+		"pc11_district_id": "Muzaffarpur"
+	},
+	{
+		"dtcode11": "213",
+		"dtname": "Madhepura",
+		"pc11_district_id": "Madhepura"
+	},
+	{
+		"dtcode11": "209",
+		"dtname": "Araria",
+		"pc11_district_id": "Araria"
+	},
+	{
+		"dtcode11": "208",
+		"dtname": "Supaul",
+		"pc11_district_id": "Supaul"
+	},
+	{
+		"dtcode11": "207",
+		"dtname": "Madhubani",
+		"pc11_district_id": "Madhubani"
+	},
+	{
+		"dtcode11": "211",
+		"dtname": "Purnia",
+		"pc11_district_id": "Purnia"
+	},
+	{
+		"dtcode11": "210",
+		"dtname": "Kishanganj",
+		"pc11_district_id": "Kishanganj"
+	},
+	{
+		"dtcode11": "235",
+		"dtname": "Aurangabad",
+		"pc11_district_id": "Aurangabad"
+	},
+	{
+		"dtcode11": "241",
+		"dtname": "North  District",
+		"pc11_district_id": "North  District"
+	},
+	{
+		"dtcode11": "242",
+		"dtname": "West District",
+		"pc11_district_id": "West District"
+	},
+	{
+		"dtcode11": "243",
+		"dtname": "South District",
+		"pc11_district_id": "South District"
+	},
+	{
+		"dtcode11": "244",
+		"dtname": "East District",
+		"pc11_district_id": "East District"
+	},
+	{
+		"dtcode11": "249",
+		"dtname": "Upper Subansiri",
+		"pc11_district_id": "Upper Subansiri"
+	},
+	{
+		"dtcode11": "260",
+		"dtname": "Anjaw",
+		"pc11_district_id": "Anjaw"
+	},
+	{
+		"dtcode11": "253",
+		"dtname": "Changlang",
+		"pc11_district_id": "Changlang"
+	},
+	{
+		"dtcode11": "245",
+		"dtname": "Tawang",
+		"pc11_district_id": "Tawang"
+	},
+	{
+		"dtcode11": "248",
+		"dtname": "Papum Pare",
+		"pc11_district_id": "Papum Pare"
+	},
+	{
+		"dtcode11": "254",
+		"dtname": "Tirap",
+		"pc11_district_id": "Tirap"
+	},
+	{
+		"dtcode11": "251",
+		"dtname": "East Siang",
+		"pc11_district_id": "East Siang"
+	},
+	{
+		"dtcode11": "259",
+		"dtname": "Lohit",
+		"pc11_district_id": "Lohit"
+	},
+	{
+		"dtcode11": "256",
+		"dtname": "Kurung Kumey",
+		"pc11_district_id": "Kurung Kumey"
+	},
+	{
+		"dtcode11": "255",
+		"dtname": "Lower Subansiri",
+		"pc11_district_id": "Lower Subansiri"
+	},
+	{
+		"dtcode11": "247",
+		"dtname": "East Kameng",
+		"pc11_district_id": "East Kameng"
+	},
+	{
+		"dtcode11": "246",
+		"dtname": "West Kameng",
+		"pc11_district_id": "West Kameng"
+	},
+	{
+		"dtcode11": "763",
+		"dtname": "Kra Daadi",
+		"pc11_district_id": "Kra Daadi"
+	},
+	{
+		"dtcode11": "762",
+		"dtname": "Namsai",
+		"pc11_district_id": "Namsai"
+	},
+	{
+		"dtcode11": "761",
+		"dtname": "Longding",
+		"pc11_district_id": "Longding"
+	},
+	{
+		"dtcode11": "252",
+		"dtname": "Upper Siang",
+		"pc11_district_id": "Upper Siang"
+	},
+	{
+		"dtcode11": "779",
+		"dtname": "Lower Siang",
+		"pc11_district_id": "Lower Siang"
+	},
+	{
+		"dtcode11": "257",
+		"dtname": "Upper Dibang Valley",
+		"pc11_district_id": "Upper Dibang Valley"
+	},
+	{
+		"dtcode11": "258",
+		"dtname": "Lower Dibang Valley",
+		"pc11_district_id": "Lower Dibang Valley"
+	},
+	{
+		"dtcode11": "764",
+		"dtname": "Siang",
+		"pc11_district_id": "Siang"
+	},
+	{
+		"dtcode11": "785",
+		"dtname": "Shi Yomi",
+		"pc11_district_id": "Shi Yomi"
+	},
+	{
+		"dtcode11": "783",
+		"dtname": "Pakke Kessang",
+		"pc11_district_id": "Pakke Kessang"
+	},
+	{
+		"dtcode11": "250",
+		"dtname": "West Siang",
+		"pc11_district_id": "West Siang"
+	},
+	{
+		"dtcode11": "784",
+		"dtname": "Lepa Rada",
+		"pc11_district_id": "Lepa Rada"
+	},
+	{
+		"dtcode11": "778",
+		"dtname": "Kamle",
+		"pc11_district_id": "Kamle"
+	},
+	{
+		"dtcode11": "261",
+		"dtname": "Mon",
+		"pc11_district_id": "Mon"
+	},
+	{
+		"dtcode11": "268",
+		"dtname": "Longleng",
+		"pc11_district_id": "Longleng"
+	},
+	{
+		"dtcode11": "262",
+		"dtname": "Mokokchung",
+		"pc11_district_id": "Mokokchung"
+	},
+	{
+		"dtcode11": "267",
+		"dtname": "Tuensang",
+		"pc11_district_id": "Tuensang"
+	},
+	{
+		"dtcode11": "269",
+		"dtname": "Kiphire",
+		"pc11_district_id": "Kiphire"
+	},
+	{
+		"dtcode11": "271",
+		"dtname": "Peren",
+		"pc11_district_id": "Peren"
+	},
+	{
+		"dtcode11": "264",
+		"dtname": "Wokha",
+		"pc11_district_id": "Wokha"
+	},
+	{
+		"dtcode11": "263",
+		"dtname": "Zunheboto",
+		"pc11_district_id": "Zunheboto"
+	},
+	{
+		"dtcode11": "266",
+		"dtname": "Phek",
+		"pc11_district_id": "Phek"
+	},
+	{
+		"dtcode11": "270",
+		"dtname": "Kohima",
+		"pc11_district_id": "Kohima"
+	},
+	{
+		"dtcode11": "265",
+		"dtname": "Dimapur",
+		"pc11_district_id": "Dimapur"
+	},
+	{
+		"dtcode11": "770",
+		"dtname": "Kamjong",
+		"pc11_district_id": "Kamjong"
+	},
+	{
+		"dtcode11": "272",
+		"dtname": "Senapati",
+		"pc11_district_id": "Senapati"
+	},
+	{
+		"dtcode11": "273",
+		"dtname": "Tamenglong",
+		"pc11_district_id": "Tamenglong"
+	},
+	{
+		"dtcode11": "277",
+		"dtname": "Imphal West",
+		"pc11_district_id": "Imphal West"
+	},
+	{
+		"dtcode11": "768",
+		"dtname": "Kakching",
+		"pc11_district_id": "Kakching"
+	},
+	{
+		"dtcode11": "275",
+		"dtname": "Bishnupur",
+		"pc11_district_id": "Bishnupur"
+	},
+	{
+		"dtcode11": "280",
+		"dtname": "Chandel",
+		"pc11_district_id": "Chandel"
+	},
+	{
+		"dtcode11": "274",
+		"dtname": "Churachandpur",
+		"pc11_district_id": "Churachandpur"
+	},
+	{
+		"dtcode11": "278",
+		"dtname": "Imphal East",
+		"pc11_district_id": "Imphal East"
+	},
+	{
+		"dtcode11": "766",
+		"dtname": "Jiribam",
+		"pc11_district_id": "Jiribam"
+	},
+	{
+		"dtcode11": "767",
+		"dtname": "Kangpokpi",
+		"pc11_district_id": "Kangpokpi"
+	},
+	{
+		"dtcode11": "276",
+		"dtname": "Thoubal",
+		"pc11_district_id": "Thoubal"
+	},
+	{
+		"dtcode11": "769",
+		"dtname": "Tengnoupal",
+		"pc11_district_id": "Tengnoupal"
+	},
+	{
+		"dtcode11": "279",
+		"dtname": "Ukhrul",
+		"pc11_district_id": "Ukhrul"
+	},
+	{
+		"dtcode11": "771",
+		"dtname": "Noney",
+		"pc11_district_id": "Noney"
+	},
+	{
+		"dtcode11": "772",
+		"dtname": "Pherzawl",
+		"pc11_district_id": "Pherzawl"
+	},
+	{
+		"dtcode11": "282",
+		"dtname": "Kolasib",
+		"pc11_district_id": "Kolasib"
+	},
+	{
+		"dtcode11": "281",
+		"dtname": "Mamit",
+		"pc11_district_id": "Mamit"
+	},
+	{
+		"dtcode11": "285",
+		"dtname": "Serchhip",
+		"pc11_district_id": "Serchhip"
+	},
+	{
+		"dtcode11": "286",
+		"dtname": "Lunglei",
+		"pc11_district_id": "Lunglei"
+	},
+	{
+		"dtcode11": "288",
+		"dtname": "Saiha",
+		"pc11_district_id": "Saiha"
+	},
+	{
+		"dtcode11": "287",
+		"dtname": "Lawngtlai",
+		"pc11_district_id": "Lawngtlai"
+	},
+	{
+		"dtcode11": "000",
+		"dtname": "Hnahthial",
+		"pc11_district_id": "Hnahthial"
+	},
+	{
+		"dtcode11": "000",
+		"dtname": "Saitual",
+		"pc11_district_id": "Saitual"
+	},
+	{
+		"dtcode11": "283",
+		"dtname": "Aizawl",
+		"pc11_district_id": "Aizawl"
+	},
+	{
+		"dtcode11": "284",
+		"dtname": "Champhai",
+		"pc11_district_id": "Champhai"
+	},
+	{
+		"dtcode11": "000",
+		"dtname": "Khawzawl",
+		"pc11_district_id": "Khawzawl"
+	},
+	{
+		"dtcode11": "292",
+		"dtname": "North Tripura",
+		"pc11_district_id": "North Tripura"
+	},
+	{
+		"dtcode11": "291",
+		"dtname": "Dhalai",
+		"pc11_district_id": "Dhalai"
+	},
+	{
+		"dtcode11": "707",
+		"dtname": "Sipahijala",
+		"pc11_district_id": "Sipahijala"
+	},
+	{
+		"dtcode11": "709",
+		"dtname": "Gomati",
+		"pc11_district_id": "Gomati"
+	},
+	{
+		"dtcode11": "708",
+		"dtname": "Khowai",
+		"pc11_district_id": "Khowai"
+	},
+	{
+		"dtcode11": "289",
+		"dtname": "West Tripura",
+		"pc11_district_id": "West Tripura"
+	},
+	{
+		"dtcode11": "290",
+		"dtname": "South Tripura",
+		"pc11_district_id": "South Tripura"
+	},
+	{
+		"dtcode11": "710",
+		"dtname": "Unokoti",
+		"pc11_district_id": "Unokoti"
+	},
+	{
+		"dtcode11": "297",
+		"dtname": "Ribhoi",
+		"pc11_district_id": "Ribhoi"
+	},
+	{
+		"dtcode11": "296",
+		"dtname": "West Khasi Hills",
+		"pc11_district_id": "West Khasi Hills"
+	},
+	{
+		"dtcode11": "714",
+		"dtname": "East Jaintia Hills",
+		"pc11_district_id": "East Jaintia Hills"
+	},
+	{
+		"dtcode11": "298",
+		"dtname": "East Khasi Hills",
+		"pc11_district_id": "East Khasi Hills"
+	},
+	{
+		"dtcode11": "295",
+		"dtname": "South Garo Hills",
+		"pc11_district_id": "South Garo Hills"
+	},
+	{
+		"dtcode11": "293",
+		"dtname": "West Garo Hills",
+		"pc11_district_id": "West Garo Hills"
+	},
+	{
+		"dtcode11": "294",
+		"dtname": "East Garo Hills",
+		"pc11_district_id": "East Garo Hills"
+	},
+	{
+		"dtcode11": "299",
+		"dtname": "West Jaintia Hills",
+		"pc11_district_id": "West Jaintia Hills"
+	},
+	{
+		"dtcode11": "713",
+		"dtname": "South West Khasi Hills",
+		"pc11_district_id": "South West Khasi Hills"
+	},
+	{
+		"dtcode11": "712",
+		"dtname": "North Garo Hills",
+		"pc11_district_id": "North Garo Hills"
+	},
+	{
+		"dtcode11": "711",
+		"dtname": "South West Garo Hills",
+		"pc11_district_id": "South West Garo Hills"
+	},
+	{
+		"dtcode11": "309",
+		"dtname": "Tinsukia",
+		"pc11_district_id": "Tinsukia"
+	},
+	{
+		"dtcode11": "308",
+		"dtname": "Dhemaji",
+		"pc11_district_id": "Dhemaji"
+	},
+	{
+		"dtcode11": "310",
+		"dtname": "Dibrugarh",
+		"pc11_district_id": "Dibrugarh"
+	},
+	{
+		"dtcode11": "307",
+		"dtname": "Lakhimpur",
+		"pc11_district_id": "Lakhimpur"
+	},
+	{
+		"dtcode11": "311",
+		"dtname": "Sivasagar",
+		"pc11_district_id": "Sivasagar"
+	},
+	{
+		"dtcode11": "312",
+		"dtname": "Jorhat",
+		"pc11_district_id": "Jorhat"
+	},
+	{
+		"dtcode11": "306",
+		"dtname": "Sonitpur",
+		"pc11_district_id": "Sonitpur"
+	},
+	{
+		"dtcode11": "313",
+		"dtname": "Golaghat",
+		"pc11_district_id": "Golaghat"
+	},
+	{
+		"dtcode11": "326",
+		"dtname": "Udalguri",
+		"pc11_district_id": "Udalguri"
+	},
+	{
+		"dtcode11": "320",
+		"dtname": "Chirang",
+		"pc11_district_id": "Chirang"
+	},
+	{
+		"dtcode11": "324",
+		"dtname": "Baksa",
+		"pc11_district_id": "Baksa"
+	},
+	{
+		"dtcode11": "305",
+		"dtname": "Nagaon",
+		"pc11_district_id": "Nagaon"
+	},
+	{
+		"dtcode11": "300",
+		"dtname": "Kokrajhar",
+		"pc11_district_id": "Kokrajhar"
+	},
+	{
+		"dtcode11": "325",
+		"dtname": "Darrang",
+		"pc11_district_id": "Darrang"
+	},
+	{
+		"dtcode11": "303",
+		"dtname": "Barpeta",
+		"pc11_district_id": "Barpeta"
+	},
+	{
+		"dtcode11": "323",
+		"dtname": "Nalbari",
+		"pc11_district_id": "Nalbari"
+	},
+	{
+		"dtcode11": "304",
+		"dtname": "Morigaon",
+		"pc11_district_id": "Morigaon"
+	},
+	{
+		"dtcode11": "321",
+		"dtname": "Kamrup",
+		"pc11_district_id": "Kamrup"
+	},
+	{
+		"dtcode11": "319",
+		"dtname": "Bongaigaon",
+		"pc11_district_id": "Bongaigaon"
+	},
+	{
+		"dtcode11": "301",
+		"dtname": "Dhubri",
+		"pc11_district_id": "Dhubri"
+	},
+	{
+		"dtcode11": "322",
+		"dtname": "Kamrup Metropolitan",
+		"pc11_district_id": "Kamrup Metropolitan"
+	},
+	{
+		"dtcode11": "302",
+		"dtname": "Goalpara",
+		"pc11_district_id": "Goalpara"
+	},
+	{
+		"dtcode11": "315",
+		"dtname": "Dima Hasao",
+		"pc11_district_id": "Dima Hasao"
+	},
+	{
+		"dtcode11": "316",
+		"dtname": "Cachar",
+		"pc11_district_id": "Cachar"
+	},
+	{
+		"dtcode11": "317",
+		"dtname": "Karimganj",
+		"pc11_district_id": "Karimganj"
+	},
+	{
+		"dtcode11": "318",
+		"dtname": "Hailakandi",
+		"pc11_district_id": "Hailakandi"
+	},
+	{
+		"dtcode11": "755",
+		"dtname": "Charaideo",
+		"pc11_district_id": "Charaideo"
+	},
+	{
+		"dtcode11": "760",
+		"dtname": "Majuli",
+		"pc11_district_id": "Majuli"
+	},
+	{
+		"dtcode11": "756",
+		"dtname": "Biswanath",
+		"pc11_district_id": "Biswanath"
+	},
+	{
+		"dtcode11": "757",
+		"dtname": "Hojai",
+		"pc11_district_id": "Hojai"
+	},
+	{
+		"dtcode11": "758",
+		"dtname": "South Salmara Mancachar",
+		"pc11_district_id": "South Salmara Mancachar"
+	},
+	{
+		"dtcode11": "314",
+		"dtname": "Karbi Anglong",
+		"pc11_district_id": "Karbi Anglong"
+	},
+	{
+		"dtcode11": "759",
+		"dtname": "West Karbi Anglong",
+		"pc11_district_id": "West Karbi Anglong"
+	},
+	{
+		"dtcode11": "343",
+		"dtname": "South Twenty Four Pargan*",
+		"pc11_district_id": "South Twenty Four Pargan*"
+	},
+	{
+		"dtcode11": "327",
+		"dtname": "Darjiling",
+		"pc11_district_id": "Darjiling"
+	},
+	{
+		"dtcode11": "328",
+		"dtname": "Jalpaiguri",
+		"pc11_district_id": "Jalpaiguri"
+	},
+	{
+		"dtcode11": "331",
+		"dtname": "Dakshin Dinajpur",
+		"pc11_district_id": "Dakshin Dinajpur"
+	},
+	{
+		"dtcode11": "332",
+		"dtname": "Maldah",
+		"pc11_district_id": "Maldah"
+	},
+	{
+		"dtcode11": "333",
+		"dtname": "Murshidabad",
+		"pc11_district_id": "Murshidabad"
+	},
+	{
+		"dtcode11": "334",
+		"dtname": "Birbhum",
+		"pc11_district_id": "Birbhum"
+	},
+	{
+		"dtcode11": "336",
+		"dtname": "Nadia",
+		"pc11_district_id": "Nadia"
+	},
+	{
+		"dtcode11": "335",
+		"dtname": "Purba Bardhaman",
+		"pc11_district_id": "Purba Bardhaman"
+	},
+	{
+		"dtcode11": "340",
+		"dtname": "Puruliya",
+		"pc11_district_id": "Puruliya"
+	},
+	{
+		"dtcode11": "339",
+		"dtname": "Bankura",
+		"pc11_district_id": "Bankura"
+	},
+	{
+		"dtcode11": "337",
+		"dtname": "North Twenty Four Pargan*",
+		"pc11_district_id": "North Twenty Four Pargan*"
+	},
+	{
+		"dtcode11": "338",
+		"dtname": "Hooghly",
+		"pc11_district_id": "Hooghly"
+	},
+	{
+		"dtcode11": "344",
+		"dtname": "Medinipur West",
+		"pc11_district_id": "Medinipur West"
+	},
+	{
+		"dtcode11": "341",
+		"dtname": "Howrah",
+		"pc11_district_id": "Howrah"
+	},
+	{
+		"dtcode11": "342",
+		"dtname": "Kolkata",
+		"pc11_district_id": "Kolkata"
+	},
+	{
+		"dtcode11": "345",
+		"dtname": "Purba Medinipur",
+		"pc11_district_id": "Purba Medinipur"
+	},
+	{
+		"dtcode11": "774",
+		"dtname": "Alipurduar",
+		"pc11_district_id": "Alipurduar"
+	},
+	{
+		"dtcode11": "777",
+		"dtname": "Paschim Bardhaman",
+		"pc11_district_id": "Paschim Bardhaman"
+	},
+	{
+		"dtcode11": "775",
+		"dtname": "Kalimpong",
+		"pc11_district_id": "Kalimpong"
+	},
+	{
+		"dtcode11": "776",
+		"dtname": "Jhargram",
+		"pc11_district_id": "Jhargram"
+	},
+	{
+		"dtcode11": "329",
+		"dtname": "Cooch Behar",
+		"pc11_district_id": "Cooch Behar"
+	},
+	{
+		"dtcode11": "330",
+		"dtname": "Uttar Dinajpur",
+		"pc11_district_id": "Uttar Dinajpur"
+	},
+	{
+		"dtcode11": "352",
+		"dtname": "Sahibganj",
+		"pc11_district_id": "Sahibganj"
+	},
+	{
+		"dtcode11": "351",
+		"dtname": "Godda",
+		"pc11_district_id": "Godda"
+	},
+	{
+		"dtcode11": "353",
+		"dtname": "Pakur",
+		"pc11_district_id": "Pakur"
+	},
+	{
+		"dtcode11": "349",
+		"dtname": "Giridih",
+		"pc11_district_id": "Giridih"
+	},
+	{
+		"dtcode11": "362",
+		"dtname": "Dumka",
+		"pc11_district_id": "Dumka"
+	},
+	{
+		"dtcode11": "350",
+		"dtname": "Deoghar",
+		"pc11_district_id": "Deoghar"
+	},
+	{
+		"dtcode11": "358",
+		"dtname": "Palamu",
+		"pc11_district_id": "Palamu"
+	},
+	{
+		"dtcode11": "347",
+		"dtname": "Chatra",
+		"pc11_district_id": "Chatra"
+	},
+	{
+		"dtcode11": "346",
+		"dtname": "Garhwa",
+		"pc11_district_id": "Garhwa"
+	},
+	{
+		"dtcode11": "363",
+		"dtname": "Jamtara",
+		"pc11_district_id": "Jamtara"
+	},
+	{
+		"dtcode11": "354",
+		"dtname": "Dhanbad",
+		"pc11_district_id": "Dhanbad"
+	},
+	{
+		"dtcode11": "359",
+		"dtname": "Latehar",
+		"pc11_district_id": "Latehar"
+	},
+	{
+		"dtcode11": "355",
+		"dtname": "Bokaro",
+		"pc11_district_id": "Bokaro"
+	},
+	{
+		"dtcode11": "361",
+		"dtname": "Ramgarh",
+		"pc11_district_id": "Ramgarh"
+	},
+	{
+		"dtcode11": "364",
+		"dtname": "Ranchi",
+		"pc11_district_id": "Ranchi"
+	},
+	{
+		"dtcode11": "356",
+		"dtname": "Lohardaga",
+		"pc11_district_id": "Lohardaga"
+	},
+	{
+		"dtcode11": "366",
+		"dtname": "Gumla",
+		"pc11_district_id": "Gumla"
+	},
+	{
+		"dtcode11": "365",
+		"dtname": "Khunti",
+		"pc11_district_id": "Khunti"
+	},
+	{
+		"dtcode11": "369",
+		"dtname": "Saraikela-kharsawan",
+		"pc11_district_id": "Saraikela-kharsawan"
+	},
+	{
+		"dtcode11": "357",
+		"dtname": "Purbi Singhbhum",
+		"pc11_district_id": "Purbi Singhbhum"
+	},
+	{
+		"dtcode11": "368",
+		"dtname": "Pashchimi Singhbhum",
+		"pc11_district_id": "Pashchimi Singhbhum"
+	},
+	{
+		"dtcode11": "367",
+		"dtname": "Simdega",
+		"pc11_district_id": "Simdega"
+	},
+	{
+		"dtcode11": "348",
+		"dtname": "Kodarma",
+		"pc11_district_id": "Kodarma"
+	},
+	{
+		"dtcode11": "360",
+		"dtname": "Hazaribagh",
+		"pc11_district_id": "Hazaribagh"
+	},
+	{
+		"dtcode11": "378",
+		"dtname": "Bhadrak",
+		"pc11_district_id": "Bhadrak"
+	},
+	{
+		"dtcode11": "383",
+		"dtname": "Dhenkanal",
+		"pc11_district_id": "Dhenkanal"
+	},
+	{
+		"dtcode11": "382",
+		"dtname": "Jajapur",
+		"pc11_district_id": "Jajapur"
+	},
+	{
+		"dtcode11": "392",
+		"dtname": "Subarnapur",
+		"pc11_district_id": "Subarnapur"
+	},
+	{
+		"dtcode11": "394",
+		"dtname": "Nuapada",
+		"pc11_district_id": "Nuapada"
+	},
+	{
+		"dtcode11": "393",
+		"dtname": "Balangir",
+		"pc11_district_id": "Balangir"
+	},
+	{
+		"dtcode11": "391",
+		"dtname": "Baudh",
+		"pc11_district_id": "Baudh"
+	},
+	{
+		"dtcode11": "381",
+		"dtname": "Cuttack",
+		"pc11_district_id": "Cuttack"
+	},
+	{
+		"dtcode11": "390",
+		"dtname": "Kandhamal",
+		"pc11_district_id": "Kandhamal"
+	},
+	{
+		"dtcode11": "385",
+		"dtname": "Nayagarh",
+		"pc11_district_id": "Nayagarh"
+	},
+	{
+		"dtcode11": "386",
+		"dtname": "Khordha",
+		"pc11_district_id": "Khordha"
+	},
+	{
+		"dtcode11": "395",
+		"dtname": "Kalahandi",
+		"pc11_district_id": "Kalahandi"
+	},
+	{
+		"dtcode11": "380",
+		"dtname": "Jagatsinghapur",
+		"pc11_district_id": "Jagatsinghapur"
+	},
+	{
+		"dtcode11": "387",
+		"dtname": "Puri",
+		"pc11_district_id": "Puri"
+	},
+	{
+		"dtcode11": "397",
+		"dtname": "Nabarangapur",
+		"pc11_district_id": "Nabarangapur"
+	},
+	{
+		"dtcode11": "396",
+		"dtname": "Rayagada",
+		"pc11_district_id": "Rayagada"
+	},
+	{
+		"dtcode11": "398",
+		"dtname": "Koraput",
+		"pc11_district_id": "Koraput"
+	},
+	{
+		"dtcode11": "399",
+		"dtname": "Malkangiri",
+		"pc11_district_id": "Malkangiri"
+	},
+	{
+		"dtcode11": "384",
+		"dtname": "Anugul",
+		"pc11_district_id": "Anugul"
+	},
+	{
+		"dtcode11": "379",
+		"dtname": "Kendrapara",
+		"pc11_district_id": "Kendrapara"
+	},
+	{
+		"dtcode11": "388",
+		"dtname": "Ganjam",
+		"pc11_district_id": "Ganjam"
+	},
+	{
+		"dtcode11": "389",
+		"dtname": "Gajapati",
+		"pc11_district_id": "Gajapati"
+	},
+	{
+		"dtcode11": "376",
+		"dtname": "Mayurbhanj",
+		"pc11_district_id": "Mayurbhanj"
+	},
+	{
+		"dtcode11": "374",
+		"dtname": "Sundargarh",
+		"pc11_district_id": "Sundargarh"
+	},
+	{
+		"dtcode11": "375",
+		"dtname": "Kendujhar",
+		"pc11_district_id": "Kendujhar"
+	},
+	{
+		"dtcode11": "377",
+		"dtname": "Baleshwar",
+		"pc11_district_id": "Baleshwar"
+	},
+	{
+		"dtcode11": "371",
+		"dtname": "Jharsuguda",
+		"pc11_district_id": "Jharsuguda"
+	},
+	{
+		"dtcode11": "370",
+		"dtname": "Bargarh",
+		"pc11_district_id": "Bargarh"
+	},
+	{
+		"dtcode11": "373",
+		"dtname": "Debagarh",
+		"pc11_district_id": "Debagarh"
+	},
+	{
+		"dtcode11": "372",
+		"dtname": "Sambalpur",
+		"pc11_district_id": "Sambalpur"
+	},
+	{
+		"dtcode11": "411",
+		"dtname": "Mahasamund",
+		"pc11_district_id": "Mahasamund"
+	},
+	{
+		"dtcode11": "413",
+		"dtname": "Uttar Bastar Kanker",
+		"pc11_district_id": "Uttar Bastar Kanker"
+	},
+	{
+		"dtcode11": "415",
+		"dtname": "Narayanpur",
+		"pc11_district_id": "Narayanpur"
+	},
+	{
+		"dtcode11": "416",
+		"dtname": "Dakshin Bastar Dantewada",
+		"pc11_district_id": "Dakshin Bastar Dantewada"
+	},
+	{
+		"dtcode11": "414",
+		"dtname": "Bastar",
+		"pc11_district_id": "Bastar"
+	},
+	{
+		"dtcode11": "722",
+		"dtname": "Kondagaon",
+		"pc11_district_id": "Kondagaon"
+	},
+	{
+		"dtcode11": "720",
+		"dtname": "Gariaband",
+		"pc11_district_id": "Gariaband"
+	},
+	{
+		"dtcode11": "410",
+		"dtname": "Raipur",
+		"pc11_district_id": "Raipur"
+	},
+	{
+		"dtcode11": "409",
+		"dtname": "Durg",
+		"pc11_district_id": "Durg"
+	},
+	{
+		"dtcode11": "412",
+		"dtname": "Dhamtari",
+		"pc11_district_id": "Dhamtari"
+	},
+	{
+		"dtcode11": "719",
+		"dtname": "Balod",
+		"pc11_district_id": "Balod"
+	},
+	{
+		"dtcode11": "400",
+		"dtname": "Koriya",
+		"pc11_district_id": "Koriya"
+	},
+	{
+		"dtcode11": "402",
+		"dtname": "Jashpur",
+		"pc11_district_id": "Jashpur"
+	},
+	{
+		"dtcode11": "404",
+		"dtname": "Korba",
+		"pc11_district_id": "Korba"
+	},
+	{
+		"dtcode11": "407",
+		"dtname": "Kabeerdham",
+		"pc11_district_id": "Kabeerdham"
+	},
+	{
+		"dtcode11": "405",
+		"dtname": "Janjgir - Champa",
+		"pc11_district_id": "Janjgir - Champa"
+	},
+	{
+		"dtcode11": "718",
+		"dtname": "Bametara",
+		"pc11_district_id": "Bametara"
+	},
+	{
+		"dtcode11": "408",
+		"dtname": "Rajnandgaon",
+		"pc11_district_id": "Rajnandgaon"
+	},
+	{
+		"dtcode11": "715",
+		"dtname": "Surajpur",
+		"pc11_district_id": "Surajpur"
+	},
+	{
+		"dtcode11": "721",
+		"dtname": "Baloda Bazar",
+		"pc11_district_id": "Baloda Bazar"
+	},
+	{
+		"dtcode11": "717",
+		"dtname": "Mungeli",
+		"pc11_district_id": "Mungeli"
+	},
+	{
+		"dtcode11": "401",
+		"dtname": "Surguja",
+		"pc11_district_id": "Surguja"
+	},
+	{
+		"dtcode11": "716",
+		"dtname": "Balrampur",
+		"pc11_district_id": "Balrampur"
+	},
+	{
+		"dtcode11": "417",
+		"dtname": "Bijapur",
+		"pc11_district_id": "Bijapur"
+	},
+	{
+		"dtcode11": "403",
+		"dtname": "Raigarh",
+		"pc11_district_id": "Raigarh"
+	},
+	{
+		"dtcode11": "406",
+		"dtname": "Bilaspur",
+		"pc11_district_id": "Bilaspur"
+	},
+	{
+		"dtcode11": "723",
+		"dtname": "Sukma",
+		"pc11_district_id": "Sukma"
+	},
+	{
+		"dtcode11": "467",
+		"dtname": "Burhanpur",
+		"pc11_district_id": "Burhanpur"
+	},
+	{
+		"dtcode11": "419",
+		"dtname": "Morena",
+		"pc11_district_id": "Morena"
+	},
+	{
+		"dtcode11": "420",
+		"dtname": "Bhind",
+		"pc11_district_id": "Bhind"
+	},
+	{
+		"dtcode11": "421",
+		"dtname": "Gwalior",
+		"pc11_district_id": "Gwalior"
+	},
+	{
+		"dtcode11": "418",
+		"dtname": "Sheopur",
+		"pc11_district_id": "Sheopur"
+	},
+	{
+		"dtcode11": "423",
+		"dtname": "Shivpuri",
+		"pc11_district_id": "Shivpuri"
+	},
+	{
+		"dtcode11": "424",
+		"dtname": "Tikamgarh",
+		"pc11_district_id": "Tikamgarh"
+	},
+	{
+		"dtcode11": "432",
+		"dtname": "Neemuch",
+		"pc11_district_id": "Neemuch"
+	},
+	{
+		"dtcode11": "430",
+		"dtname": "Rewa",
+		"pc11_district_id": "Rewa"
+	},
+	{
+		"dtcode11": "429",
+		"dtname": "Satna",
+		"pc11_district_id": "Satna"
+	},
+	{
+		"dtcode11": "458",
+		"dtname": "Guna",
+		"pc11_district_id": "Guna"
+	},
+	{
+		"dtcode11": "459",
+		"dtname": "Ashoknagar",
+		"pc11_district_id": "Ashoknagar"
+	},
+	{
+		"dtcode11": "433",
+		"dtname": "Mandsaur",
+		"pc11_district_id": "Mandsaur"
+	},
+	{
+		"dtcode11": "463",
+		"dtname": "Singrauli",
+		"pc11_district_id": "Singrauli"
+	},
+	{
+		"dtcode11": "462",
+		"dtname": "Sidhi",
+		"pc11_district_id": "Sidhi"
+	},
+	{
+		"dtcode11": "427",
+		"dtname": "Sagar",
+		"pc11_district_id": "Sagar"
+	},
+	{
+		"dtcode11": "428",
+		"dtname": "Damoh",
+		"pc11_district_id": "Damoh"
+	},
+	{
+		"dtcode11": "436",
+		"dtname": "Shajapur",
+		"pc11_district_id": "Shajapur"
+	},
+	{
+		"dtcode11": "443",
+		"dtname": "Vidisha",
+		"pc11_district_id": "Vidisha"
+	},
+	{
+		"dtcode11": "442",
+		"dtname": "Rajgarh",
+		"pc11_district_id": "Rajgarh"
+	},
+	{
+		"dtcode11": "460",
+		"dtname": "Shahdol",
+		"pc11_district_id": "Shahdol"
+	},
+	{
+		"dtcode11": "450",
+		"dtname": "Katni",
+		"pc11_district_id": "Katni"
+	},
+	{
+		"dtcode11": "431",
+		"dtname": "Umaria",
+		"pc11_district_id": "Umaria"
+	},
+	{
+		"dtcode11": "434",
+		"dtname": "Ratlam",
+		"pc11_district_id": "Ratlam"
+	},
+	{
+		"dtcode11": "444",
+		"dtname": "Bhopal",
+		"pc11_district_id": "Bhopal"
+	},
+	{
+		"dtcode11": "435",
+		"dtname": "Ujjain",
+		"pc11_district_id": "Ujjain"
+	},
+	{
+		"dtcode11": "446",
+		"dtname": "Raisen",
+		"pc11_district_id": "Raisen"
+	},
+	{
+		"dtcode11": "445",
+		"dtname": "Sehore",
+		"pc11_district_id": "Sehore"
+	},
+	{
+		"dtcode11": "451",
+		"dtname": "Jabalpur",
+		"pc11_district_id": "Jabalpur"
+	},
+	{
+		"dtcode11": "437",
+		"dtname": "Dewas",
+		"pc11_district_id": "Dewas"
+	},
+	{
+		"dtcode11": "461",
+		"dtname": "Anuppur",
+		"pc11_district_id": "Anuppur"
+	},
+	{
+		"dtcode11": "464",
+		"dtname": "Jhabua",
+		"pc11_district_id": "Jhabua"
+	},
+	{
+		"dtcode11": "453",
+		"dtname": "Dindori",
+		"pc11_district_id": "Dindori"
+	},
+	{
+		"dtcode11": "452",
+		"dtname": "Narsimhapur",
+		"pc11_district_id": "Narsimhapur"
+	},
+	{
+		"dtcode11": "438",
+		"dtname": "Dhar",
+		"pc11_district_id": "Dhar"
+	},
+	{
+		"dtcode11": "439",
+		"dtname": "Indore",
+		"pc11_district_id": "Indore"
+	},
+	{
+		"dtcode11": "454",
+		"dtname": "Mandla",
+		"pc11_district_id": "Mandla"
+	},
+	{
+		"dtcode11": "449",
+		"dtname": "Hoshangabad",
+		"pc11_district_id": "Hoshangabad"
+	},
+	{
+		"dtcode11": "456",
+		"dtname": "Seoni",
+		"pc11_district_id": "Seoni"
+	},
+	{
+		"dtcode11": "465",
+		"dtname": "Alirajpur",
+		"pc11_district_id": "Alirajpur"
+	},
+	{
+		"dtcode11": "455",
+		"dtname": "Chhindwara",
+		"pc11_district_id": "Chhindwara"
+	},
+	{
+		"dtcode11": "448",
+		"dtname": "Harda",
+		"pc11_district_id": "Harda"
+	},
+	{
+		"dtcode11": "440",
+		"dtname": "West Nimar",
+		"pc11_district_id": "West Nimar"
+	},
+	{
+		"dtcode11": "466",
+		"dtname": "East Nimar",
+		"pc11_district_id": "East Nimar"
+	},
+	{
+		"dtcode11": "457",
+		"dtname": "Balaghat",
+		"pc11_district_id": "Balaghat"
+	},
+	{
+		"dtcode11": "441",
+		"dtname": "Barwani",
+		"pc11_district_id": "Barwani"
+	},
+	{
+		"dtcode11": "724",
+		"dtname": "Agar Malwa",
+		"pc11_district_id": "Agar Malwa"
+	},
+	{
+		"dtcode11": "422",
+		"dtname": "Datia",
+		"pc11_district_id": "Datia"
+	},
+	{
+		"dtcode11": "425",
+		"dtname": "Chhatarpur",
+		"pc11_district_id": "Chhatarpur"
+	},
+	{
+		"dtcode11": "426",
+		"dtname": "Panna",
+		"pc11_district_id": "Panna"
+	},
+	{
+		"dtcode11": "447",
+		"dtname": "Betul",
+		"pc11_district_id": "Betul"
+	},
+	{
+		"dtcode11": "782",
+		"dtname": "Niwari",
+		"pc11_district_id": "Niwari"
+	},
+	{
+		"dtcode11": "491",
+		"dtname": "Valsad",
+		"pc11_district_id": "Valsad"
+	},
+	{
+		"dtcode11": "480",
+		"dtname": "Amreli",
+		"pc11_district_id": "Amreli"
+	},
+	{
+		"dtcode11": "489",
+		"dtname": "The Dangs",
+		"pc11_district_id": "The Dangs"
+	},
+	{
+		"dtcode11": "469",
+		"dtname": "Banas Kantha",
+		"pc11_district_id": "Banas Kantha"
+	},
+	{
+		"dtcode11": "470",
+		"dtname": "Patan",
+		"pc11_district_id": "Patan"
+	},
+	{
+		"dtcode11": "471",
+		"dtname": "Mahesana",
+		"pc11_district_id": "Mahesana"
+	},
+	{
+		"dtcode11": "473",
+		"dtname": "Gandhinagar",
+		"pc11_district_id": "Gandhinagar"
+	},
+	{
+		"dtcode11": "474",
+		"dtname": "Ahmadabad",
+		"pc11_district_id": "Ahmadabad"
+	},
+	{
+		"dtcode11": "484",
+		"dtname": "Panch Mahals",
+		"pc11_district_id": "Panch Mahals"
+	},
+	{
+		"dtcode11": "485",
+		"dtname": "Dohad",
+		"pc11_district_id": "Dohad"
+	},
+	{
+		"dtcode11": "486",
+		"dtname": "Vadodara",
+		"pc11_district_id": "Vadodara"
+	},
+	{
+		"dtcode11": "488",
+		"dtname": "Bharuch",
+		"pc11_district_id": "Bharuch"
+	},
+	{
+		"dtcode11": "478",
+		"dtname": "Porbandar",
+		"pc11_district_id": "Porbandar"
+	},
+	{
+		"dtcode11": "487",
+		"dtname": "Narmada",
+		"pc11_district_id": "Narmada"
+	},
+	{
+		"dtcode11": "492",
+		"dtname": "Surat",
+		"pc11_district_id": "Surat"
+	},
+	{
+		"dtcode11": "493",
+		"dtname": "Tapi",
+		"pc11_district_id": "Tapi"
+	},
+	{
+		"dtcode11": "725",
+		"dtname": "Aravalli",
+		"pc11_district_id": "Aravalli"
+	},
+	{
+		"dtcode11": "726",
+		"dtname": "Botad",
+		"pc11_district_id": "Botad"
+	},
+	{
+		"dtcode11": "731",
+		"dtname": "Chota Udaipur",
+		"pc11_district_id": "Chota Udaipur"
+	},
+	{
+		"dtcode11": "730",
+		"dtname": "Mahisagar",
+		"pc11_district_id": "Mahisagar"
+	},
+	{
+		"dtcode11": "729",
+		"dtname": "Gir Somnath",
+		"pc11_district_id": "Gir Somnath"
+	},
+	{
+		"dtcode11": "472",
+		"dtname": "Sabar Kantha",
+		"pc11_district_id": "Sabar Kantha"
+	},
+	{
+		"dtcode11": "468",
+		"dtname": "Kachchh",
+		"pc11_district_id": "Kachchh"
+	},
+	{
+		"dtcode11": "475",
+		"dtname": "Surendranagar",
+		"pc11_district_id": "Surendranagar"
+	},
+	{
+		"dtcode11": "476",
+		"dtname": "Rajkot",
+		"pc11_district_id": "Rajkot"
+	},
+	{
+		"dtcode11": "483",
+		"dtname": "Kheda",
+		"pc11_district_id": "Kheda"
+	},
+	{
+		"dtcode11": "482",
+		"dtname": "Anand",
+		"pc11_district_id": "Anand"
+	},
+	{
+		"dtcode11": "481",
+		"dtname": "Bhavnagar",
+		"pc11_district_id": "Bhavnagar"
+	},
+	{
+		"dtcode11": "479",
+		"dtname": "Junagadh",
+		"pc11_district_id": "Junagadh"
+	},
+	{
+		"dtcode11": "477",
+		"dtname": "Jamnagar",
+		"pc11_district_id": "Jamnagar"
+	},
+	{
+		"dtcode11": "728",
+		"dtname": "Devbhumi Dwarka",
+		"pc11_district_id": "Devbhumi Dwarka"
+	},
+	{
+		"dtcode11": "727",
+		"dtname": "Morbi",
+		"pc11_district_id": "Morbi"
+	},
+	{
+		"dtcode11": "490",
+		"dtname": "Navsari",
+		"pc11_district_id": "Navsari"
+	},
+	{
+		"dtcode11": "495",
+		"dtname": "Daman",
+		"pc11_district_id": "Daman"
+	},
+	{
+		"dtcode11": "494",
+		"dtname": "Diu",
+		"pc11_district_id": "Diu"
+	},
+	{
+		"dtcode11": "496",
+		"dtname": "Dadra & Nagar Haveli",
+		"pc11_district_id": "Dadra & Nagar Haveli"
+	},
+	{
+		"dtcode11": "507",
+		"dtname": "Gondiya",
+		"pc11_district_id": "Gondiya"
+	},
+	{
+		"dtcode11": "506",
+		"dtname": "Bhandara",
+		"pc11_district_id": "Bhandara"
+	},
+	{
+		"dtcode11": "499",
+		"dtname": "Jalgaon",
+		"pc11_district_id": "Jalgaon"
+	},
+	{
+		"dtcode11": "504",
+		"dtname": "Wardha",
+		"pc11_district_id": "Wardha"
+	},
+	{
+		"dtcode11": "500",
+		"dtname": "Buldana",
+		"pc11_district_id": "Buldana"
+	},
+	{
+		"dtcode11": "501",
+		"dtname": "Akola",
+		"pc11_district_id": "Akola"
+	},
+	{
+		"dtcode11": "516",
+		"dtname": "Nashik",
+		"pc11_district_id": "Nashik"
+	},
+	{
+		"dtcode11": "508",
+		"dtname": "Gadchiroli",
+		"pc11_district_id": "Gadchiroli"
+	},
+	{
+		"dtcode11": "502",
+		"dtname": "Washim",
+		"pc11_district_id": "Washim"
+	},
+	{
+		"dtcode11": "509",
+		"dtname": "Chandrapur",
+		"pc11_district_id": "Chandrapur"
+	},
+	{
+		"dtcode11": "510",
+		"dtname": "Yavatmal",
+		"pc11_district_id": "Yavatmal"
+	},
+	{
+		"dtcode11": "514",
+		"dtname": "Jalna",
+		"pc11_district_id": "Jalna"
+	},
+	{
+		"dtcode11": "522",
+		"dtname": "Ahmadnagar",
+		"pc11_district_id": "Ahmadnagar"
+	},
+	{
+		"dtcode11": "512",
+		"dtname": "Hingoli",
+		"pc11_district_id": "Hingoli"
+	},
+	{
+		"dtcode11": "511",
+		"dtname": "Nanded",
+		"pc11_district_id": "Nanded"
+	},
+	{
+		"dtcode11": "513",
+		"dtname": "Parbhani",
+		"pc11_district_id": "Parbhani"
+	},
+	{
+		"dtcode11": "521",
+		"dtname": "Pune",
+		"pc11_district_id": "Pune"
+	},
+	{
+		"dtcode11": "523",
+		"dtname": "Bid",
+		"pc11_district_id": "Bid"
+	},
+	{
+		"dtcode11": "519",
+		"dtname": "Mumbai",
+		"pc11_district_id": "Mumbai"
+	},
+	{
+		"dtcode11": "524",
+		"dtname": "Latur",
+		"pc11_district_id": "Latur"
+	},
+	{
+		"dtcode11": "525",
+		"dtname": "Osmanabad",
+		"pc11_district_id": "Osmanabad"
+	},
+	{
+		"dtcode11": "526",
+		"dtname": "Solapur",
+		"pc11_district_id": "Solapur"
+	},
+	{
+		"dtcode11": "527",
+		"dtname": "Satara",
+		"pc11_district_id": "Satara"
+	},
+	{
+		"dtcode11": "528",
+		"dtname": "Ratnagiri",
+		"pc11_district_id": "Ratnagiri"
+	},
+	{
+		"dtcode11": "531",
+		"dtname": "Sangli",
+		"pc11_district_id": "Sangli"
+	},
+	{
+		"dtcode11": "530",
+		"dtname": "Kolhapur",
+		"pc11_district_id": "Kolhapur"
+	},
+	{
+		"dtcode11": "529",
+		"dtname": "Sindhudurg",
+		"pc11_district_id": "Sindhudurg"
+	},
+	{
+		"dtcode11": "517",
+		"dtname": "Thane",
+		"pc11_district_id": "Thane"
+	},
+	{
+		"dtcode11": "732",
+		"dtname": "Palghar",
+		"pc11_district_id": "Palghar"
+	},
+	{
+		"dtcode11": "497",
+		"dtname": "Nandurbar",
+		"pc11_district_id": "Nandurbar"
+	},
+	{
+		"dtcode11": "503",
+		"dtname": "Amravati",
+		"pc11_district_id": "Amravati"
+	},
+	{
+		"dtcode11": "498",
+		"dtname": "Dhule",
+		"pc11_district_id": "Dhule"
+	},
+	{
+		"dtcode11": "505",
+		"dtname": "Nagpur",
+		"pc11_district_id": "Nagpur"
+	},
+	{
+		"dtcode11": "515",
+		"dtname": "Aurangabad",
+		"pc11_district_id": "Aurangabad"
+	},
+	{
+		"dtcode11": "520",
+		"dtname": "Raigarh",
+		"pc11_district_id": "Raigarh"
+	},
+	{
+		"dtcode11": "518",
+		"dtname": "Mumbai Suburban",
+		"pc11_district_id": "Mumbai Suburban"
+	},
+	{
+		"dtcode11": "542",
+		"dtname": "Srikakulam",
+		"pc11_district_id": "Srikakulam"
+	},
+	{
+		"dtcode11": "543",
+		"dtname": "Vizianagaram",
+		"pc11_district_id": "Vizianagaram"
+	},
+	{
+		"dtcode11": "544",
+		"dtname": "Visakhapatnam",
+		"pc11_district_id": "Visakhapatnam"
+	},
+	{
+		"dtcode11": "547",
+		"dtname": "Krishna",
+		"pc11_district_id": "Krishna"
+	},
+	{
+		"dtcode11": "548",
+		"dtname": "Guntur",
+		"pc11_district_id": "Guntur"
+	},
+	{
+		"dtcode11": "545",
+		"dtname": "East Godavari",
+		"pc11_district_id": "East Godavari"
+	},
+	{
+		"dtcode11": "549",
+		"dtname": "Prakasam",
+		"pc11_district_id": "Prakasam"
+	},
+	{
+		"dtcode11": "552",
+		"dtname": "Kurnool",
+		"pc11_district_id": "Kurnool"
+	},
+	{
+		"dtcode11": "553",
+		"dtname": "Anantapur",
+		"pc11_district_id": "Anantapur"
+	},
+	{
+		"dtcode11": "550",
+		"dtname": "Sri Potti Sriramulu Nell*",
+		"pc11_district_id": "Sri Potti Sriramulu Nell*"
+	},
+	{
+		"dtcode11": "546",
+		"dtname": "West Godavari",
+		"pc11_district_id": "West Godavari"
+	},
+	{
+		"dtcode11": "551",
+		"dtname": "Y.S.R.",
+		"pc11_district_id": "Y.S.R."
+	},
+	{
+		"dtcode11": "554",
+		"dtname": "Chittoor",
+		"pc11_district_id": "Chittoor"
+	},
+	{
+		"dtcode11": "558",
+		"dtname": "Bidar",
+		"pc11_district_id": "Bidar"
+	},
+	{
+		"dtcode11": "579",
+		"dtname": "Kalaburagi",
+		"pc11_district_id": "Kalaburagi"
+	},
+	{
+		"dtcode11": "555",
+		"dtname": "Belagavi",
+		"pc11_district_id": "Belagavi"
+	},
+	{
+		"dtcode11": "580",
+		"dtname": "Yadgir",
+		"pc11_district_id": "Yadgir"
+	},
+	{
+		"dtcode11": "556",
+		"dtname": "Bagalkote",
+		"pc11_district_id": "Bagalkote"
+	},
+	{
+		"dtcode11": "559",
+		"dtname": "Raichur",
+		"pc11_district_id": "Raichur"
+	},
+	{
+		"dtcode11": "560",
+		"dtname": "Koppal",
+		"pc11_district_id": "Koppal"
+	},
+	{
+		"dtcode11": "561",
+		"dtname": "Gadag",
+		"pc11_district_id": "Gadag"
+	},
+	{
+		"dtcode11": "565",
+		"dtname": "Ballari",
+		"pc11_district_id": "Ballari"
+	},
+	{
+		"dtcode11": "562",
+		"dtname": "Dharwad",
+		"pc11_district_id": "Dharwad"
+	},
+	{
+		"dtcode11": "563",
+		"dtname": "Uttara Kannada",
+		"pc11_district_id": "Uttara Kannada"
+	},
+	{
+		"dtcode11": "564",
+		"dtname": "Haveri",
+		"pc11_district_id": "Haveri"
+	},
+	{
+		"dtcode11": "566",
+		"dtname": "Chitradurga",
+		"pc11_district_id": "Chitradurga"
+	},
+	{
+		"dtcode11": "567",
+		"dtname": "Davanagere",
+		"pc11_district_id": "Davanagere"
+	},
+	{
+		"dtcode11": "568",
+		"dtname": "Shivamogga",
+		"pc11_district_id": "Shivamogga"
+	},
+	{
+		"dtcode11": "569",
+		"dtname": "Udupi",
+		"pc11_district_id": "Udupi"
+	},
+	{
+		"dtcode11": "570",
+		"dtname": "Chikkamagaluru",
+		"pc11_district_id": "Chikkamagaluru"
+	},
+	{
+		"dtcode11": "582",
+		"dtname": "Chikkaballapura",
+		"pc11_district_id": "Chikkaballapura"
+	},
+	{
+		"dtcode11": "574",
+		"dtname": "Hassan",
+		"pc11_district_id": "Hassan"
+	},
+	{
+		"dtcode11": "581",
+		"dtname": "Kolar",
+		"pc11_district_id": "Kolar"
+	},
+	{
+		"dtcode11": "583",
+		"dtname": "Bengaluru Rural",
+		"pc11_district_id": "Bengaluru Rural"
+	},
+	{
+		"dtcode11": "575",
+		"dtname": "Dakshina Kannada",
+		"pc11_district_id": "Dakshina Kannada"
+	},
+	{
+		"dtcode11": "572",
+		"dtname": "Bangalore",
+		"pc11_district_id": "Bangalore"
+	},
+	{
+		"dtcode11": "576",
+		"dtname": "Kodagu",
+		"pc11_district_id": "Kodagu"
+	},
+	{
+		"dtcode11": "578",
+		"dtname": "Chamarajanagara",
+		"pc11_district_id": "Chamarajanagara"
+	},
+	{
+		"dtcode11": "571",
+		"dtname": "Tumakuru",
+		"pc11_district_id": "Tumakuru"
+	},
+	{
+		"dtcode11": "584",
+		"dtname": "Ramanagara",
+		"pc11_district_id": "Ramanagara"
+	},
+	{
+		"dtcode11": "573",
+		"dtname": "Mandya",
+		"pc11_district_id": "Mandya"
+	},
+	{
+		"dtcode11": "577",
+		"dtname": "Mysuru",
+		"pc11_district_id": "Mysuru"
+	},
+	{
+		"dtcode11": "557",
+		"dtname": "Vijayapura",
+		"pc11_district_id": "Vijayapura"
+	},
+	{
+		"dtcode11": "585",
+		"dtname": "North Goa",
+		"pc11_district_id": "North Goa"
+	},
+	{
+		"dtcode11": "586",
+		"dtname": "South Goa",
+		"pc11_district_id": "South Goa"
+	},
+	{
+		"dtcode11": "587",
+		"dtname": "Lakshadweep",
+		"pc11_district_id": "Lakshadweep"
+	},
+	{
+		"dtcode11": "588",
+		"dtname": "Kasaragod",
+		"pc11_district_id": "Kasaragod"
+	},
+	{
+		"dtcode11": "590",
+		"dtname": "Wayanad",
+		"pc11_district_id": "Wayanad"
+	},
+	{
+		"dtcode11": "591",
+		"dtname": "Kozhikode",
+		"pc11_district_id": "Kozhikode"
+	},
+	{
+		"dtcode11": "592",
+		"dtname": "Malappuram",
+		"pc11_district_id": "Malappuram"
+	},
+	{
+		"dtcode11": "593",
+		"dtname": "Palakkad",
+		"pc11_district_id": "Palakkad"
+	},
+	{
+		"dtcode11": "594",
+		"dtname": "Thrissur",
+		"pc11_district_id": "Thrissur"
+	},
+	{
+		"dtcode11": "596",
+		"dtname": "Idukki",
+		"pc11_district_id": "Idukki"
+	},
+	{
+		"dtcode11": "595",
+		"dtname": "Ernakulam",
+		"pc11_district_id": "Ernakulam"
+	},
+	{
+		"dtcode11": "598",
+		"dtname": "Alappuzha",
+		"pc11_district_id": "Alappuzha"
+	},
+	{
+		"dtcode11": "597",
+		"dtname": "Kottayam",
+		"pc11_district_id": "Kottayam"
+	},
+	{
+		"dtcode11": "599",
+		"dtname": "Pathanamthitta",
+		"pc11_district_id": "Pathanamthitta"
+	},
+	{
+		"dtcode11": "600",
+		"dtname": "Kollam",
+		"pc11_district_id": "Kollam"
+	},
+	{
+		"dtcode11": "601",
+		"dtname": "Thiruvananthapuram",
+		"pc11_district_id": "Thiruvananthapuram"
+	},
+	{
+		"dtcode11": "589",
+		"dtname": "Kannur",
+		"pc11_district_id": "Kannur"
+	},
+	{
+		"dtcode11": "631",
+		"dtname": "Krishnagiri",
+		"pc11_district_id": "Krishnagiri"
+	},
+	{
+		"dtcode11": "606",
+		"dtname": "Tiruvannamalai",
+		"pc11_district_id": "Tiruvannamalai"
+	},
+	{
+		"dtcode11": "630",
+		"dtname": "Dharmapuri",
+		"pc11_district_id": "Dharmapuri"
+	},
+	{
+		"dtcode11": "608",
+		"dtname": "Salem",
+		"pc11_district_id": "Salem"
+	},
+	{
+		"dtcode11": "610",
+		"dtname": "Erode",
+		"pc11_district_id": "Erode"
+	},
+	{
+		"dtcode11": "611",
+		"dtname": "The Nilgiris",
+		"pc11_district_id": "The Nilgiris"
+	},
+	{
+		"dtcode11": "609",
+		"dtname": "Namakkal",
+		"pc11_district_id": "Namakkal"
+	},
+	{
+		"dtcode11": "615",
+		"dtname": "Perambalur",
+		"pc11_district_id": "Perambalur"
+	},
+	{
+		"dtcode11": "632",
+		"dtname": "Coimbatore",
+		"pc11_district_id": "Coimbatore"
+	},
+	{
+		"dtcode11": "614",
+		"dtname": "Tiruchirappalli",
+		"pc11_district_id": "Tiruchirappalli"
+	},
+	{
+		"dtcode11": "616",
+		"dtname": "Ariyalur",
+		"pc11_district_id": "Ariyalur"
+	},
+	{
+		"dtcode11": "633",
+		"dtname": "Tiruppur",
+		"pc11_district_id": "Tiruppur"
+	},
+	{
+		"dtcode11": "620",
+		"dtname": "Thanjavur",
+		"pc11_district_id": "Thanjavur"
+	},
+	{
+		"dtcode11": "613",
+		"dtname": "Karur",
+		"pc11_district_id": "Karur"
+	},
+	{
+		"dtcode11": "619",
+		"dtname": "Thiruvarur",
+		"pc11_district_id": "Thiruvarur"
+	},
+	{
+		"dtcode11": "612",
+		"dtname": "Dindigul",
+		"pc11_district_id": "Dindigul"
+	},
+	{
+		"dtcode11": "623",
+		"dtname": "Madurai",
+		"pc11_district_id": "Madurai"
+	},
+	{
+		"dtcode11": "624",
+		"dtname": "Theni",
+		"pc11_district_id": "Theni"
+	},
+	{
+		"dtcode11": "625",
+		"dtname": "Virudhunagar",
+		"pc11_district_id": "Virudhunagar"
+	},
+	{
+		"dtcode11": "627",
+		"dtname": "Thoothukkudi",
+		"pc11_district_id": "Thoothukkudi"
+	},
+	{
+		"dtcode11": "629",
+		"dtname": "Kanniyakumari",
+		"pc11_district_id": "Kanniyakumari"
+	},
+	{
+		"dtcode11": "607",
+		"dtname": "Viluppuram",
+		"pc11_district_id": "Viluppuram"
+	},
+	{
+		"dtcode11": "617",
+		"dtname": "Cuddalore",
+		"pc11_district_id": "Cuddalore"
+	},
+	{
+		"dtcode11": "621",
+		"dtname": "Pudukkottai",
+		"pc11_district_id": "Pudukkottai"
+	},
+	{
+		"dtcode11": "622",
+		"dtname": "Sivaganga",
+		"pc11_district_id": "Sivaganga"
+	},
+	{
+		"dtcode11": "626",
+		"dtname": "Ramanathapuram",
+		"pc11_district_id": "Ramanathapuram"
+	},
+	{
+		"dtcode11": "618",
+		"dtname": "Nagapattinam",
+		"pc11_district_id": "Nagapattinam"
+	},
+	{
+		"dtcode11": "729",
+		"dtname": "Kallakurichi",
+		"pc11_district_id": "Kallakurichi"
+	},
+	{
+		"dtcode11": "0",
+		"dtname": "Tenkasi",
+		"pc11_district_id": "Tenkasi"
+	},
+	{
+		"dtcode11": "628",
+		"dtname": "Tirunelveli",
+		"pc11_district_id": "Tirunelveli"
+	},
+	{
+		"dtcode11": "605",
+		"dtname": "Vellore",
+		"pc11_district_id": "Vellore"
+	},
+	{
+		"dtcode11": "0",
+		"dtname": "Ranipet",
+		"pc11_district_id": "Ranipet"
+	},
+	{
+		"dtcode11": "0",
+		"dtname": "Tirupathur",
+		"pc11_district_id": "Tirupathur"
+	},
+	{
+		"dtcode11": "604",
+		"dtname": "Kancheepuram",
+		"pc11_district_id": "Kancheepuram"
+	},
+	{
+		"dtcode11": "0",
+		"dtname": "Chengalpattu",
+		"pc11_district_id": "Chengalpattu"
+	},
+	{
+		"dtcode11": "603",
+		"dtname": "Chennai",
+		"pc11_district_id": "Chennai"
+	},
+	{
+		"dtcode11": "602",
+		"dtname": "Thiruvallur",
+		"pc11_district_id": "Thiruvallur"
+	},
+	{
+		"dtcode11": "635",
+		"dtname": "Puducherry",
+		"pc11_district_id": "Puducherry"
+	},
+	{
+		"dtcode11": "637",
+		"dtname": "Karaikal",
+		"pc11_district_id": "Karaikal"
+	},
+	{
+		"dtcode11": "636",
+		"dtname": "Mahe",
+		"pc11_district_id": "Mahe"
+	},
+	{
+		"dtcode11": "634",
+		"dtname": "Yanam",
+		"pc11_district_id": "Yanam"
+	},
+	{
+		"dtcode11": "639",
+		"dtname": "North  & Middle Andaman",
+		"pc11_district_id": "North  & Middle Andaman"
+	},
+	{
+		"dtcode11": "640",
+		"dtname": "South Andaman",
+		"pc11_district_id": "South Andaman"
+	},
+	{
+		"dtcode11": "638",
+		"dtname": "Nicobars",
+		"pc11_district_id": "Nicobars"
+	},
+	{
+		"dtcode11": "532",
+		"dtname": "Adilabad",
+		"pc11_district_id": "Adilabad"
+	},
+	{
+		"dtcode11": "536",
+		"dtname": "Hyderabad",
+		"pc11_district_id": "Hyderabad"
+	},
+	{
+		"dtcode11": "737",
+		"dtname": "Jagitial",
+		"pc11_district_id": "Jagitial"
+	},
+	{
+		"dtcode11": "752",
+		"dtname": "Jangoan",
+		"pc11_district_id": "Jangoan"
+	},
+	{
+		"dtcode11": "780",
+		"dtname": "Mulugu",
+		"pc11_district_id": "Mulugu"
+	},
+	{
+		"dtcode11": "744",
+		"dtname": "Jogulamba Gadwal",
+		"pc11_district_id": "Jogulamba Gadwal"
+	},
+	{
+		"dtcode11": "736",
+		"dtname": "Kamareddy",
+		"pc11_district_id": "Kamareddy"
+	},
+	{
+		"dtcode11": "534",
+		"dtname": "Karimnagar",
+		"pc11_district_id": "Karimnagar"
+	},
+	{
+		"dtcode11": "541",
+		"dtname": "Khammam",
+		"pc11_district_id": "Khammam"
+	},
+	{
+		"dtcode11": "733",
+		"dtname": "Kumuram Bheem Asifabad",
+		"pc11_district_id": "Kumuram Bheem Asifabad"
+	},
+	{
+		"dtcode11": "751",
+		"dtname": "Mahabubabad",
+		"pc11_district_id": "Mahabubabad"
+	},
+	{
+		"dtcode11": "538",
+		"dtname": "Mahabubnagar",
+		"pc11_district_id": "Mahabubnagar"
+	},
+	{
+		"dtcode11": "735",
+		"dtname": "Mancherial",
+		"pc11_district_id": "Mancherial"
+	},
+	{
+		"dtcode11": "535",
+		"dtname": "Medak",
+		"pc11_district_id": "Medak"
+	},
+	{
+		"dtcode11": "742",
+		"dtname": "Medchal Malkajgiri",
+		"pc11_district_id": "Medchal Malkajgiri"
+	},
+	{
+		"dtcode11": "746",
+		"dtname": "Nagarkurnool",
+		"pc11_district_id": "Nagarkurnool"
+	},
+	{
+		"dtcode11": "539",
+		"dtname": "Nalgonda",
+		"pc11_district_id": "Nalgonda"
+	},
+	{
+		"dtcode11": "734",
+		"dtname": "Nirmal",
+		"pc11_district_id": "Nirmal"
+	},
+	{
+		"dtcode11": "533",
+		"dtname": "Nizamabad",
+		"pc11_district_id": "Nizamabad"
+	},
+	{
+		"dtcode11": "738",
+		"dtname": "Peddapalli",
+		"pc11_district_id": "Peddapalli"
+	},
+	{
+		"dtcode11": "739",
+		"dtname": "Rajanna Sircilla",
+		"pc11_district_id": "Rajanna Sircilla"
+	},
+	{
+		"dtcode11": "537",
+		"dtname": "Ranga Reddy",
+		"pc11_district_id": "Ranga Reddy"
+	},
+	{
+		"dtcode11": "740",
+		"dtname": "Sangareddy",
+		"pc11_district_id": "Sangareddy"
+	},
+	{
+		"dtcode11": "741",
+		"dtname": "Siddipet",
+		"pc11_district_id": "Siddipet"
+	},
+	{
+		"dtcode11": "748",
+		"dtname": "Suryapet",
+		"pc11_district_id": "Suryapet"
+	},
+	{
+		"dtcode11": "743",
+		"dtname": "Vikarabad",
+		"pc11_district_id": "Vikarabad"
+	},
+	{
+		"dtcode11": "745",
+		"dtname": "Wanaparthy",
+		"pc11_district_id": "Wanaparthy"
+	},
+	{
+		"dtcode11": "749",
+		"dtname": "Warangal Rural",
+		"pc11_district_id": "Warangal Rural"
+	},
+	{
+		"dtcode11": "540",
+		"dtname": "Warangal Urban",
+		"pc11_district_id": "Warangal Urban"
+	},
+	{
+		"dtcode11": "747",
+		"dtname": "Yadadri Bhuvanagiri",
+		"pc11_district_id": "Yadadri Bhuvanagiri"
+	},
+	{
+		"dtcode11": "753",
+		"dtname": "Bhadradri Kothagudem",
+		"pc11_district_id": "Bhadradri Kothagudem"
+	},
+	{
+		"dtcode11": "750",
+		"dtname": "Jayashankar",
+		"pc11_district_id": "Jayashankar"
+	},
+	{
+		"dtcode11": "781",
+		"dtname": "Narayanpet",
+		"pc11_district_id": "Narayanpet"
+	},
+	{
+		"dtcode11": "003",
+		"dtname": "Leh",
+		"pc11_district_id": "Leh"
+	},
+	{
+		"dtcode11": "004",
+		"dtname": "Kargil",
+		"pc11_district_id": "Kargil"
+	}
+]
